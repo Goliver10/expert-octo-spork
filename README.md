@@ -2,4 +2,4 @@
 
 Bem vindo a expert-octo-spork :tada:
 
-O repositório onde entendemos nada.
+O repositório não onde entendemos nada.
